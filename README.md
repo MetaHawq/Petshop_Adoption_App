@@ -7,4 +7,4 @@ functional, front and back end
 
 npm run dev to see
 
-pay with metamask
+pay with metamask from local chain on Ganache
